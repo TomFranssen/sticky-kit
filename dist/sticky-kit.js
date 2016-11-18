@@ -4,7 +4,7 @@
 @license Sticky-kit v1.1.3 | MIT | Leaf Corcoran 2015 | http://leafo.net
  */
 
-(function() {
+;(function() {
   var $, win;
 
   $ = window.jQuery;
